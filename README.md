@@ -1,1 +1,2 @@
-# git-practice
+GitHub: UwU
+python app.py
